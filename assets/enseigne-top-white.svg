@@ -4,25 +4,28 @@
    data-name="Layer 1"
    viewBox="0 0 677.23652 109.97544"
    version="1.1"
-   sodipodi:docname="enseigne-top.svg"
+   sodipodi:docname="enseigne-top-white.svg"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
    width="677.23651"
    height="109.97544"
+   inkscape:export-filename="/Users/Mams/Sites/syra-sn.github.io/assets/enseigne-top-white.png"
+   inkscape:export-xdpi="49.650002"
+   inkscape:export-ydpi="49.650002"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview170"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#ffffff"
      borderopacity="1"
      inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="563.5"
+     inkscape:cx="204.5"
      inkscape:cy="144.5"
      inkscape:window-width="1440"
      inkscape:window-height="789"
@@ -83,7 +86,7 @@
          transform="matrix(1.202649,0,0,1.4668202,-116.57997,-42.703925)"><tspan
            x="204"
            y="85.350908"
-           id="tspan215">Laverie /Pressing</tspan></text>
+           id="tspan154">Laverie /Pressing</tspan></text>
     </g>
   </g>
   <text
